@@ -1,0 +1,16 @@
+C:\Users\91889\source\repos\Bankproject\bin\Debug\net5.0\Bankproject.exe
+C:\Users\91889\source\repos\Bankproject\bin\Debug\net5.0\Bankproject.deps.json
+C:\Users\91889\source\repos\Bankproject\bin\Debug\net5.0\Bankproject.runtimeconfig.json
+C:\Users\91889\source\repos\Bankproject\bin\Debug\net5.0\Bankproject.runtimeconfig.dev.json
+C:\Users\91889\source\repos\Bankproject\bin\Debug\net5.0\Bankproject.dll
+C:\Users\91889\source\repos\Bankproject\bin\Debug\net5.0\ref\Bankproject.dll
+C:\Users\91889\source\repos\Bankproject\bin\Debug\net5.0\Bankproject.pdb
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\Bankproject.csprojAssemblyReference.cache
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\Bankproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\Bankproject.AssemblyInfoInputs.cache
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\Bankproject.AssemblyInfo.cs
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\Bankproject.csproj.CoreCompileInputs.cache
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\Bankproject.dll
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\ref\Bankproject.dll
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\Bankproject.pdb
+C:\Users\91889\source\repos\Bankproject\obj\Debug\net5.0\Bankproject.genruntimeconfig.cache
